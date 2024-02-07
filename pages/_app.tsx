@@ -36,10 +36,10 @@ function MyApp({ Component, pageProps, router }: AppProps) {
     <ThemeProvider attribute="class" enableSystem={false}>
       <DefaultSeo
         description={config.description}
-        defaultTitle="Hi i'm Wisesa."
-        titleTemplate={`%s · Wisesa.dev`}
+        defaultTitle="Hi i'm Binggiedev."
+        titleTemplate={`%s · Binggiedev`}
         openGraph={{
-          title: "Hi i'm Wisesa.",
+          title: "Hi i'm Binggiedev.",
           description: config.description,
           images: [
             {

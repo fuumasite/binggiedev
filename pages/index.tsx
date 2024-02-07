@@ -71,15 +71,14 @@ export default function Index() {
         <div className="flex flex-col items-center md:items-start space-y-4 justify-center">
           <div className="relative">
             <h1 className="noselect font-doodle mt-1 text-3xl md:text-4xl">
-              Hi, I&apos;m Wisesa. 🐱
+              Hi, I&apos;m Binggie. 🎸
             </h1>
             <div className="absolute hidden lg:block z-[2] top-[-8px] right-6">
               <Doodle2 />
             </div>
           </div>
           <p className="noselect text-md md:text-lg text-center md:text-left max-w-[550px]">
-            A software <i>edgy</i>neer who love cats. Love to explore anything
-            about technology, but focused more on web technologies.
+          a <i>web developer and network technician</i> who likes playing the guitar, likes looking for things about technology and networks, but focuses more on web development and security
           </p>
           <p className="text-center md:text-left max-w-[550px]">
             Checkout my{" "}

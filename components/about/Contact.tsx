@@ -11,7 +11,7 @@ const Contact = () => {
       </h2>
       <p>
         I’m always excited to connect with everyone so please don’t hesitate to{" "}
-        <Link className="underline" href="mailto:hi@wisesa.dev">
+        <Link className="underline" href="mailto:binggierashel@gmail.com">
           get in touch
         </Link>{" "}
         with me by following my social media bellow:

@@ -17,8 +17,8 @@ export const links: NavLink[] = [
   //   url: "/snippet",
   // },
   {
-    text: "Timeline",
-    url: "https://timeline.wisesa.dev",
+    text: "Instagram",
+    url: "https://instagram.com/binggiershl",
   },
   {
     text: "About",
