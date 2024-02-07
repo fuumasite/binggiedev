@@ -17,10 +17,6 @@ export const links: NavLink[] = [
   //   url: "/snippet",
   // },
   {
-    text: "Instagram",
-    url: "https://instagram.com/binggiershl",
-  },
-  {
     text: "About",
     url: "/about",
   },
